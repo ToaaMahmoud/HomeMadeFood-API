@@ -1,10 +1,9 @@
 # Homemade Food API
-Backend system for a platform connecting users with home-made-food chefs to order and manage meals:
+Backend system for a platform connecting users with home-made-food chefs to order and manage meals.
 
 - Users can view meals, add them to a cart, place orders, and track their status.  
-- Chefs can manage their meal listings, receive orders, and update order statuses.  
-
-The system includes secure authentication, role-based access control, and OTP-based password recovery.
+- Chefs can manage their meal listings, receive orders, and update order statuses.
+- The system includes secure authentication, role-based access control, and OTP-based password recovery.
 ---
 
 ## Features
